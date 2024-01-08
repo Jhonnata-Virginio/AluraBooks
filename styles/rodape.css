@@ -1,0 +1,28 @@
+hr {
+    margin: 0;
+}
+
+.rodape {
+    background-color: var(--branco);
+    color: var(--azul);
+    padding: 1em;
+}
+
+.lista-rodapé {
+    display: none;
+}
+
+.registro {
+    display: block;
+}
+
+.registro__desenvolvedor {
+    color: var(--azul);
+    margin: 0.5em 0;
+}
+
+.registro__link {
+    text-decoration: none;
+    color: var(--azul);
+    padding-right: 1em;
+}
